@@ -1,0 +1,3 @@
+rootProject.name = 'inputText'
+
+include ':app'
